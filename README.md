@@ -1,6 +1,4 @@
-<center>
-  <img width="50%" height="auto" src="./assets/images/main.png" />
-</center>
+<img align="center" width="50%" height="auto" src="./assets/images/main.png">
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <p align="center">
