@@ -1,7 +1,8 @@
-<img width="50%" height="auto" src="./assets/images/main.png" />
+<img width="50%" height="auto" src="./assets/images/main.png" align="center" />
 <h1 align="center">Hi 👋, I'm Joseph</h1>
+
 <p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&color=FA7268&multiline=true&width=500&height=60&lines=I+am+a+self-taught+Frontend+Developer+;Learning+and+creating+are+my+passions)](https://git.io/typing-svg)"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&color=FA7268&multiline=true&width=500&height=60&lines=I+am+a+self-taught+Frontend+Developer+;Learning+and+creating+are+my+passions"></a>
 </p>
 
 - 🔭 I’m currently working on [1000WORDS](https://github.com/chowjiaming/1000WORDS)
