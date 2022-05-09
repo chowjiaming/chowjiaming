@@ -1,4 +1,4 @@
-<img align="center" width="50%" height="auto" src="./assets/images/main.png">
+<p align="center"><img width="50%" height="auto" src="./assets/images/main.png"></p>
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <p align="center">
