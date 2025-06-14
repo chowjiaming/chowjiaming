@@ -1,21 +1,40 @@
-<p align="center"><img width="50%" height="auto" src="./assets/images/main.png"></p>
+<p align="center">
+  <img
+    width="50%"
+    height="auto"
+    src="./assets/images/main.png"
+    alt="Joseph's Banner"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=3000&color=FA7268&center=true&vCenter=true&multiline=true&width=500&height=60&lines=I+am+a+Frontend+Developer+;Learning+and+creating+are+my+passions"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=chowjiaming&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+    />
+  </a>
 </p>
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer who thrives at the intersection of elegant code architecture and user-centric design. My approach centers on building scalable, type-safe applications while maintaining a deep focus on developer experience and performance optimization. I believe the best solutions emerge from understanding both the technical constraints and human needs that drive software development.
+I'm a full-stack developer who thrives at the intersection of elegant
+architecture and user-centric design. I specialize in building scalable,
+type-safe applications with a relentless focus on developer experience and
+performance. I believe the best solutions emerge from a deep understanding of
+both the technical constraints and the human needs that drive software.
 
-When I'm not coding, I'm probably thinking about coding—or at least wondering if there's a more efficient way to do something I just did. It's a fun obsession to have.
+When I'm not coding, I'm probably thinking about how to architect a better
+solution for something I just built. It's a fun obsession.
 
-- 🔭 I'm currently working on [1000WORDS](https://github.com/chowjiaming/1000WORDS)
-- 🌱 I'm currently learning [Signals](https://preactjs.com/guide/v10/signals/) and [tRPC](https://trpc.io/)
+- 🔭 I'm currently working on
+  [1000WORDS](https://github.com/chowjiaming/1000WORDS)
+- 🌱 I'm currently learning [Signals](https://preactjs.com/guide/v10/signals/)
+  and [tRPC](https://trpc.io/)
 - 👨‍💻 All of my projects are available at [josephchow.dev](https://josephchow.dev)
 - 📫 How to reach me **contact@josephchow.dev**
-- ⚡ Fun fact: I believe the most elegant code is often the code you don't have to write
+- ⚡ Fun fact: I believe the most elegant code is often the code you don't have
+  to write.
 
 ## 🚀 Featured Projects
 
@@ -27,13 +46,21 @@ When I'm not coding, I'm probably thinking about coding—or at least wondering 
 
 ## 🎯 What I'm Up To
 
-- 🧠 **Architecting the Future**: Designing systems that don't just solve today's problems, but anticipate tomorrow's complexities. Currently exploring how edge computing and distributed architectures can reshape user experiences at scale.
+- 🧠 **Architecting for Tomorrow**: Building resilient, forward-thinking
+  systems. I'm currently focused on how edge computing and distributed models
+  can deliver faster, more reliable user experiences.
 
-- 🔬 **Deep-Diving into Reactive Paradigms**: Investigating the philosophical implications of fine-grained reactivity in modern web applications. How do Signals fundamentally change our mental models of state management and component lifecycles?
+- 🔬 **Rethinking Reactivity**: Deconstructing modern reactive paradigms.
+  Exploring how fine-grained reactivity (via Signals) fundamentally alters the
+  mental models for state management and UI architecture.
 
-- 🌐 **Bridging Domains**: Building applications that seamlessly blend frontend elegance with backend robustness. I'm particularly fascinated by how type-safe APIs like tRPC are dissolving the traditional boundaries between client and server.
+- 🌐 **Unifying the Stack**: Leveraging type-safe APIs like tRPC to dissolve the
+  boundary between client and server, creating a truly seamless and efficient
+  development workflow.
 
-- 🎨 **Crafting Digital Experiences**: Every pixel, every interaction, every millisecond matters. I'm constantly refining my understanding of how technical decisions cascade into user emotions and business outcomes.
+- 🎨 **Mastering the Craft**: Every pixel, interaction, and millisecond matters.
+  I'm constantly refining how technical decisions translate directly into a
+  polished and intuitive user experience.
 
 ## 📈 Activity Graph
 
