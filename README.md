@@ -9,9 +9,9 @@
 <h1 align="center">Hi 👋, I'm Joseph</h1>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img
-      src="https://github-profile-trophy.vercel.app/?username=chowjiaming&theme=radical&no-frame=true&no-bg=true&margin-w=4"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2750&color=E3792F&center=true&vCenter=true&multiline=true&width=550&height=80&lines=Engineering+elegant+solutions+for+complex+problems.;Passionate+about+performance,+architecture,+and+design."
     />
   </a>
 </p>
