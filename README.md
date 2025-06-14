@@ -35,52 +35,6 @@ When I'm not coding, I'm probably thinking about coding—or at least wondering 
 
 - 🎨 **Crafting Digital Experiences**: Every pixel, every interaction, every millisecond matters. I'm constantly refining my understanding of how technical decisions cascade into user emotions and business outcomes.
 
-- 💭 **Contributing to the Collective**: Open-source isn't just about code—it's about advancing the entire ecosystem's understanding. I contribute not just solutions, but the thinking behind them.
-
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-FF6B35?style=flat-square&logo=react&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Full-Stack & API
-![tRPC](https://img.shields.io/badge/-tRPC-398CCB?style=flat-square&logo=trpc&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6B35?style=flat-square&logo=postman&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-### Testing & Quality
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-![Biome](https://img.shields.io/badge/-Biome-60A5FA?style=flat-square&logo=biome&logoColor=white)
-
-### Currently Exploring
-![Signals](https://img.shields.io/badge/-Signals-673AB8?style=flat-square&logo=preact&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Turbo](https://img.shields.io/badge/-Turbo-EF4444?style=flat-square&logo=vercel&logoColor=white)
-
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chowjiaming&theme=react-dark&hide_border=true)
