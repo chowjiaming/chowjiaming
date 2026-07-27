@@ -3,78 +3,42 @@
     width="50%"
     height="auto"
     src="./assets/images/main.png"
-    alt="Joseph's Banner"
+    alt="Joseph Chow"
   />
 </p>
-<h1 align="center">Hi 👋, I'm Joseph</h1>
+
+<h1 align="center">Joseph Chow</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1750&color=E3792F&center=true&vCenter=true&multiline=true&width=720&height=80&lines=Engineering+elegant+solutions+for+complex+problems.;Passionate+about+performance,+architecture,+and+design."
-    />
-  </a>
-</p>
-
-## 👨‍💻 About Me
-
-I'm a full-stack developer who thrives at the intersection of elegant
-architecture and user-centric design. I specialize in building scalable,
-type-safe applications with a relentless focus on developer experience and
-performance. I believe the best solutions emerge from a deep understanding of
-both the technical constraints and the human needs that drive software.
-
-When I'm not coding, I'm probably thinking about how to architect a better
-solution for something I just built. It's a fun obsession.
-
-- 🔭 I'm currently working on
-  [1000WORDS](https://github.com/chowjiaming/1000WORDS)
-- 🌱 I'm currently learning [Signals](https://preactjs.com/guide/v10/signals/)
-  and [tRPC](https://trpc.io/)
-- 👨‍💻 All of my projects are available at [josephchow.dev](https://josephchow.dev)
-- 📫 How to reach me **contact@josephchow.dev**
-- ⚡ Fun fact: I believe the most elegant code is often the code you don't have
-  to write.
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/chowjiaming/1000WORDS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chowjiaming&repo=1000WORDS&theme=radical&hide_border=true" alt="1000WORDS" />
-  </a>
-</div>
-
-## 🎯 What I'm Up To
-
-- 🧠 **Architecting for Tomorrow**: Building resilient, forward-thinking
-  systems. I'm currently focused on how edge computing and distributed models
-  can deliver faster, more reliable user experiences.
-
-- 🔬 **Rethinking Reactivity**: Deconstructing modern reactive paradigms.
-  Exploring how fine-grained reactivity (via Signals) fundamentally alters the
-  mental models for state management and UI architecture.
-
-- 🌐 **Unifying the Stack**: Leveraging type-safe APIs like tRPC to dissolve the
-  boundary between client and server, creating a truly seamless and efficient
-  development workflow.
-
-- 🎨 **Mastering the Craft**: Every pixel, interaction, and millisecond matters.
-  I'm constantly refining how technical decisions translate directly into a
-  polished and intuitive user experience.
-
-## 📈 Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chowjiaming&theme=react-dark&hide_border=true)
-
-## 🙋‍♀️ Let's Connect
-
-<p align="center">
-  <a href="https://josephchow.dev"><img src="./assets/icons/website.png" alt="Website"/></a>
-	<a href="mailto:contact@josephchow.dev"><img src="./assets/icons/email.png" alt="Gmail"/></a>
-	<a href="https://github.com/chowjiaming"><img src="./assets/icons/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/chowjiaming"><img src="./assets/icons/linkedin.png" alt="LinkedIn"/></a>
+  <strong>Full-stack engineer</strong> · MCP observability &amp; agent DX<br />
+  <a href="https://josephchow.dev">josephchow.dev</a>
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/chowjiaming">chowjiaming</a></i>
+  <a href="https://josephchow.dev"><img src="./assets/icons/website.png" width="32" height="32" alt="Website" /></a>
+  &nbsp;
+  <a href="mailto:contact@josephchow.dev"><img src="./assets/icons/email.png" width="32" height="32" alt="Email" /></a>
+  &nbsp;
+  <a href="https://github.com/chowjiaming"><img src="./assets/icons/github.png" width="32" height="32" alt="GitHub" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/chowjiaming"><img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" /></a>
+</p>
+
+## About
+
+I build inspectability for agent tool use — traces, latency, and cost — for MCP clients like Cursor and Claude Code. Local-first by default. I care more about making tool calls debuggable than shipping another chatbot.
+
+Full-stack engineer with 8 years of experience. Currently building AP automation at [Iteration Matrix](https://iterationmatrix.com/); on the side I work on MCP observability and agent DX. Author of **[toolcall-timeline](https://github.com/chowjiaming/toolcall-timeline)**. More at [josephchow.dev](https://josephchow.dev) · **contact@josephchow.dev**
+
+## Work
+
+<p align="center">
+  <a href="https://github.com/chowjiaming/toolcall-timeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chowjiaming&repo=toolcall-timeline&theme=tokyonight&hide_border=true" alt="toolcall-timeline" />
+  </a>
+</p>
+
+<p align="center">
+  <em>A Network-tab-style proxy for MCP tool calls — wrap any stdio server, record every call, inspect locally.</em><br />
+  <sub>Works with Cursor · Claude Code · any stdio MCP server</sub>
 </p>
