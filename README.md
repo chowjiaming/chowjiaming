@@ -34,7 +34,7 @@ Full-stack engineer with 8 years of experience. Currently building AP automation
 
 <p align="center">
   <a href="https://github.com/chowjiaming/toolcall-timeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chowjiaming&repo=toolcall-timeline&theme=tokyonight&hide_border=true" alt="toolcall-timeline" />
+    <img src="./assets/images/toolcall-timeline.svg" width="640" alt="toolcall-timeline — MCP tool-call waterfall" />
   </a>
 </p>
 
